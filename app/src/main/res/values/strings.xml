@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Logic Project</string>
+    <string name="news_detail_title">News Detail</string>
+    <string name="hint_search"> Search..</string>
+</resources>
